@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hello!",
-    "description": "My name is Maximiliano Zeballos. Enthusiast for web development and simple but aesthetically correct and consistent designs. I'm working with the newest front-end frameworks like React and Angular. I love teamwork, nothing better than several heads thinking in sync.",
+    "description": "My name is Maximiliano Zeballos. Enthusiast for web development and simple but aesthetically correct and consistent designs. I'm working with the newest front-end frameworks like React and Angular. I love teamwork, nothing better than several heads thinking in sync. My native language is Spanish (you can change the language of the web) and I have a solid and decent base of Portuguese.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -81,30 +81,6 @@
           "name": "NodeJS"
         }
       ]
-    },
-    {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-      "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
-        }
-      ]
     }
   ],
   "experience": [
@@ -114,12 +90,12 @@
       "years": "05/2021 - 09/2021",
       "mainTech": ["Soft Skills - Guidance"],
       "technologies": [
-        "Guiar nuevos alumnos",
-        "Fomentar buenas prácticas",
-        "Ayudar a desarrollar habilidades blandas",
-        "Guiar a los recién llegados al Curso",
-        "Solución de problemas",
-        "Ayudar en desarrollo personal y grupal"
+        "Guide new students",
+        "Encourage good practice",
+        "Help to develop soft skills",
+        "Guiding newcomers to the Course",
+        "Problem solving through dialogue",
+        "Helping in personal and group development"
       ]
     },
     {
