@@ -49,12 +49,12 @@
     {
       "title": "Comercio digital de ropa",
       "startDate": "2021",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "description": "Proyecto personal para asignatura de estudio. Me encargue del diseño, así como también trabajar en la parte lógica de los filtrados, pasarelas de pago, autenticaciones, etc. Aprobé el mismo proyecto, así como también obtuve una calificación sobresaliente.",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/e-commerce/e-commercep1.png",
+        "images/portfolio/e-commerce/e-commercep2.jpg"
       ],
-      "url": "https://github.com",
+      "url": "https://github.com/Dante1704/Henry-s-Final-Project",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -79,6 +79,10 @@
         {
           "class": "devicon-nodejs-plain",
           "name": "NodeJS"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "TailwindCSS"
         }
       ]
     },
@@ -123,9 +127,9 @@
       ]
     },
     {
-      "company": "FreeLance",
-      "title": "Comercio electrónico de ropa",
-      "years": "20/2021 - Presente",
+      "company": "Independiente",
+      "title": "Independiente",
+      "years": "20/2020 - Presente",
       "mainTech": ["ReactJs"],
       "technologies": [
         "React",
@@ -134,7 +138,8 @@
         "JavaScript",
         "TailwindCSS",
         "ExpressJS",
-        "NodeJS"
+        "NodeJS",
+        "Bootstrap - React-Bootstrap"
       ]
     }
   ]

@@ -49,12 +49,12 @@
     {
       "title": "Clothing e-Commerce",
       "startDate": "2021",
-      "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+      "description": "Personal project for a studio assignment. I was in charge of the design, as well as working on the logic part of the filtering, payment gateways, authentications, etc. I passed the same project, as well as I got an outstanding grade.",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/e-commerce/e-commercep1.png",
+        "images/portfolio/e-commerce/e-commercep2.jpg"
       ],
-      "url": "https://github.com",
+      "url": "https://github.com/Dante1704/Henry-s-Final-Project",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -124,8 +124,8 @@
     },
     {
       "company": "FreeLance",
-      "title": "Clothing e-Commerce",
-      "years": "20/2021 - Presente",
+      "title": "FreeLance",
+      "years": "20/2020 - Presente",
       "mainTech": ["ReactJs"],
       "technologies": [
         "React",
@@ -134,7 +134,8 @@
         "JavaScript",
         "TailwindCSS",
         "ExpressJS",
-        "NodeJS"
+        "NodeJS",
+        "Bootstrap - React-Bootstrap"
       ]
     }
   ]
