@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "¡Ey!",
-    "description": "Mi nombre es Maximiliano Zeballos. Entusiasta por el desarrollo Web y los diseños simples pero estéticamente correctos y acordes. Me encuentro trabajando con los mas nuevos frameworks de front-end como React y Angular. Me encanta el trabajo en equipo, nada mejor que varias cabezas pensando en sintonía.",
+    "description": "Mi nombre es Maximiliano Zeballos. Entusiasta por el desarrollo Web y los diseños simples pero estéticamente correctos y acordes. Me encuentro trabajando con los mas nuevos frameworks de front-end como React y Angular. Me encanta el trabajo en equipo, nada mejor que varias cabezas pensando en sintonía. También hablo Inglés (puedes cambiar de lenguaje la web) y una decente cantidad de Portugués.",
     "section_name": {
       "about": "Acerca de mi",
       "projects": "Proyectos",
@@ -85,30 +85,6 @@
           "name": "TailwindCSS"
         }
       ]
-    },
-    {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-      "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
-        }
-      ]
     }
   ],
   "experience": [
@@ -122,7 +98,7 @@
         "Fomentar buenas prácticas",
         "Ayudar a desarrollar habilidades blandas",
         "Guiar a los recién llegados al Curso",
-        "Solución de problemas",
+        "Solución de problemas mediante el dialogo",
         "Ayudar en desarrollo personal y grupal"
       ]
     },
