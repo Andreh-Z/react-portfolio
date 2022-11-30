@@ -1,0 +1,141 @@
+{
+  "basic_info": {
+    "description_header": "Hello!",
+    "description": "My name is Maximiliano Zeballos. Enthusiast for web development and simple but aesthetically correct and consistent designs. I'm working with the newest front-end frameworks like React and Angular. I love teamwork, nothing better than several heads thinking in sync.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experiences"
+    }
+  },
+  "projects": [
+    {
+      "title": "Individual project about countries",
+      "startDate": "2021",
+      "description": "The most extended application I have had the opportunity to work with. I have learned many technologies and my code was reviewed by an awesome teacher. The application has filtering by Country, Population, Continents, search bar, allows you to search information about different countries from my own REST API.",
+      "images": [
+        "images/portfolio/pi-henry/landing-pi.png",
+        "images/portfolio/pi-henry/home-pi.png"
+      ],
+      "url": "https://github.com/Andreh-Z/PI-Countries-main",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-redux-original",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgresSQL"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "ExpressJS"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        }
+      ]
+    },
+    {
+      "title": "Clothing e-Commerce",
+      "startDate": "2021",
+      "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-redux-original",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgresSQL"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "ExpressJS"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        }
+      ]
+    },
+    {
+      "title": "3D Object Viewer",
+      "startDate": "2015",
+      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "SoyHenry",
+      "title": "Teaching Assistant",
+      "years": "05/2021 - 09/2021",
+      "mainTech": ["Soft Skills - Guidance"],
+      "technologies": [
+        "Guiar nuevos alumnos",
+        "Fomentar buenas prácticas",
+        "Ayudar a desarrollar habilidades blandas",
+        "Guiar a los recién llegados al Curso",
+        "Solución de problemas",
+        "Ayudar en desarrollo personal y grupal"
+      ]
+    },
+    {
+      "company": "FreeLance",
+      "title": "Clothing e-Commerce",
+      "years": "20/2021 - Presente",
+      "mainTech": ["ReactJs"],
+      "technologies": [
+        "React",
+        "Redux",
+        "PostgressSQL",
+        "JavaScript",
+        "TailwindCSS",
+        "ExpressJS",
+        "NodeJS"
+      ]
+    }
+  ]
+}
