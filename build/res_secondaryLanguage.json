@@ -1,0 +1,118 @@
+{
+  "basic_info": {
+    "description_header": "Hello!",
+    "description": "My name is Maximiliano Zeballos. Enthusiast for web development and simple but aesthetically correct and consistent designs. I'm working with the newest front-end frameworks like React and Angular. I love teamwork, nothing better than several heads thinking in sync. My native language is Spanish (you can change the language of the web) and I have a solid and decent base of Portuguese.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experiences"
+    }
+  },
+  "projects": [
+    {
+      "title": "Individual project about countries",
+      "startDate": "2021",
+      "description": "The most extended application I have had the opportunity to work with. I have learned many technologies and my code was reviewed by an awesome teacher. The application has filtering by Country, Population, Continents, search bar, allows you to search information about different countries from my own REST API.",
+      "images": [
+        "images/portfolio/pi-henry/landing-pi.png",
+        "images/portfolio/pi-henry/home-pi.png"
+      ],
+      "url": "https://github.com/Andreh-Z",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-redux-original",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgresSQL"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "ExpressJS"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        }
+      ]
+    },
+    {
+      "title": "Clothing e-Commerce",
+      "startDate": "2021",
+      "description": "Personal project for a studio assignment. I was in charge of the design, as well as working on the logic part of the filtering, payment gateways, authentications, etc. I passed the same project, as well as I got an outstanding grade.",
+      "images": [
+        "images/portfolio/e-commerce/e-commercep1.png",
+        "images/portfolio/e-commerce/landing-e.png"
+      ],
+      "url": "https://github.com/Dante1704/Henry-s-Final-Project",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-redux-original",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgresSQL"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "ExpressJS"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "SoyHenry",
+      "title": "Teaching Assistant",
+      "years": "05/2021 - 09/2021",
+      "mainTech": ["Soft Skills - Guidance"],
+      "technologies": [
+        "Guide new students",
+        "Encourage good practice",
+        "Help to develop soft skills",
+        "Guiding newcomers to the Course",
+        "Problem solving through dialogue",
+        "Helping in personal and group development"
+      ]
+    },
+    {
+      "company": "FreeLance",
+      "title": "FreeLance",
+      "years": "20/2020 - Presente",
+      "mainTech": ["ReactJs"],
+      "technologies": [
+        "React",
+        "Redux",
+        "PostgressSQL",
+        "JavaScript",
+        "TailwindCSS",
+        "ExpressJS",
+        "NodeJS",
+        "Bootstrap - React-Bootstrap"
+      ]
+    }
+  ]
+}
