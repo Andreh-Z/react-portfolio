@@ -85,6 +85,35 @@
           "name": "TailwindCSS"
         }
       ]
+    },
+    {
+      "title": "Sitio web agencia espacial",
+      "startDate": "2022",
+      "description": "Este proyecto consistió en la creación de una agencia de viajes espaciales ficticia utilizando React. El objetivo del proyecto era refinar habilidades y poner en práctica conocimientos personales en el uso de esta popular librería de JavaScript para el desarrollo de aplicaciones web.",
+      "images": [
+        "images/portfolio/adventure/p1.png",
+        "images/portfolio/adventure/p2.png",
+        "images/portfolio/adventure/p3.png"
+      ],
+      "url": "https://github.com/Andreh-Z/space-with-us",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-redux-original",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
     }
   ],
   "experience": [
