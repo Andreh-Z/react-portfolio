@@ -153,9 +153,9 @@
       "startDate": "2023",
       "description": "Travel-Go es una aplicación desarrollada utilizando React Native, Ruteo, Iconos Nativos y TailwindCSS. La aplicación está diseñada para viajeros y les ayuda a buscar restaurantes, atracciones y hoteles. Con su diseño moderno, la aplicación facilita a los usuarios encontrar la información que necesitan para sus viajes.",
       "images": [
-        "images/portfolio/travel-go/img1.png",
-        "images/portfolio/travel-go/img2.png",
-        "images/portfolio/travel-go/img3.png"
+        "images/portfolio/travel-go/img1.jpg",
+        "images/portfolio/travel-go/img2.jpg",
+        "images/portfolio/travel-go/img3.jpg"
       ],
       "url": "https://github.com/Andreh-Z/travel-application-RN",
       "technologies": [
