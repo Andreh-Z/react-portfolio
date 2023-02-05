@@ -143,6 +143,27 @@
           "name": "FireBase"
         }
       ]
+    },
+    {
+      "title": "Go-Travel-app",
+      "startDate": "2023",
+      "description": "Travel-Go is an application developed using React Native, Routing, Native Icons and TailwindCSS. The app is designed for travelers and helps them search for restaurants, attractions, and hotels. With its modern design, the app makes it easy for users to find the information they need for their travels.",
+      "images": [
+        "images/portfolio/travel-go/img1.png",
+        "images/portfolio/travel-go/img2.png",
+        "images/portfolio/travel-go/img3.png"
+      ],
+      "url": "https://github.com/Andreh-Z/travel-application-RN",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React-Native"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "TailwindCSS"
+        }
+      ]
     }
   ],
   "experience": [
