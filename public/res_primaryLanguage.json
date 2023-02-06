@@ -153,9 +153,9 @@
       "startDate": "2023",
       "description": "Travel-Go es una aplicación desarrollada utilizando React Native, Ruteo, Iconos Nativos y TailwindCSS. La aplicación está diseñada para viajeros y les ayuda a buscar restaurantes, atracciones y hoteles. Con su diseño moderno, la aplicación facilita a los usuarios encontrar la información que necesitan para sus viajes.",
       "images": [
-        "images/portfolio/travel-go/img1.png",
-        "images/portfolio/travel-go/img2.png",
-        "images/portfolio/travel-go/img3.png"
+        "images/portfolio/travel-go/img1.jpg",
+        "images/portfolio/travel-go/img2.jpg",
+        "images/portfolio/travel-go/img3.jpg"
       ],
       "url": "https://github.com/Andreh-Z/travel-application-RN",
       "technologies": [
@@ -164,8 +164,44 @@
           "name": "React-Native"
         },
         {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
           "class": "devicon-tailwindcss-original-wordmark",
           "name": "TailwindCSS"
+        }
+      ]
+    },
+    {
+      "title": "Netflix-Clone",
+      "startDate": "En progreso...",
+      "description": "Este proyecto es una réplica de la popular plataforma de streaming, Netflix, construido usando Next.js, React, TypeScript, TailwindCSS, Framer Motion, FireBase, Google Auth, y Stripe. Aunque aún no está terminado, puedes ver una vista previa en vivo del trabajo visitando el enlace dentro de las capturas o revisar el codigo en mi GitHub.",
+      "images": [
+        "https://media.giphy.com/media/UKhrrZfoeZZyRL3wB3/giphy.gif",
+        "https://media.giphy.com/media/XcFAqL8OuXaPxV7YPw/giphy.gif"
+      ],
+      "url": "https://github.com/Andreh-Z/netflix-clone",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nextjs-original",
+          "name": "NextJs v15"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "TailwindCSS"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "FireBase"
         }
       ]
     }

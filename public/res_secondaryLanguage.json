@@ -149,9 +149,9 @@
       "startDate": "2023",
       "description": "Travel-Go is an application developed using React Native, Routing, Native Icons and TailwindCSS. The app is designed for travelers and helps them search for restaurants, attractions, and hotels. With its modern design, the app makes it easy for users to find the information they need for their travels.",
       "images": [
-        "images/portfolio/travel-go/img1.png",
-        "images/portfolio/travel-go/img2.png",
-        "images/portfolio/travel-go/img3.png"
+        "images/portfolio/travel-go/img1.jpg",
+        "images/portfolio/travel-go/img2.jpg",
+        "images/portfolio/travel-go/img3.jpg"
       ],
       "url": "https://github.com/Andreh-Z/travel-application-RN",
       "technologies": [
@@ -162,6 +162,38 @@
         {
           "class": "devicon-tailwindcss-original-wordmark",
           "name": "TailwindCSS"
+        }
+      ]
+    },
+    {
+      "title": "Netflix-Clone",
+      "startDate": "In progress...",
+      "description": "This project is a replica of the popular streaming platform, Netflix, built using Next.js, React, TypeScript, TailwindCSS, Framer Motion, FireBase, Google Auth, and Stripe. Although it's not finished yet, you can see a live preview of the work by visiting the link within the screenshots or check out the code on my GitHub.",
+      "images": [
+        "https://media.giphy.com/media/UKhrrZfoeZZyRL3wB3/giphy.gif",
+        "https://media.giphy.com/media/XcFAqL8OuXaPxV7YPw/giphy.gif"
+      ],
+      "url": "https://github.com/Andreh-Z/netflix-clone",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nextjs-original",
+          "name": "NextJs v15"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "TailwindCSS"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "FireBase"
         }
       ]
     }
