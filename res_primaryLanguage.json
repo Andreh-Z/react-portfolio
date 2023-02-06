@@ -164,8 +164,44 @@
           "name": "React-Native"
         },
         {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
           "class": "devicon-tailwindcss-original-wordmark",
           "name": "TailwindCSS"
+        }
+      ]
+    },
+    {
+      "title": "Netflix-Clone",
+      "startDate": "En progreso...",
+      "description": "Este proyecto es una réplica de la popular plataforma de streaming, Netflix, construido usando Next.js, React, TypeScript, TailwindCSS, Framer Motion, FireBase, Google Auth, y Stripe. Aunque aún no está terminado, puedes ver una vista previa en vivo del trabajo visitando el enlace dentro de las capturas o revisar el codigo en mi GitHub.",
+      "images": [
+        "https://media.giphy.com/media/UKhrrZfoeZZyRL3wB3/giphy.gif",
+        "https://media.giphy.com/media/XcFAqL8OuXaPxV7YPw/giphy.gif"
+      ],
+      "url": "https://github.com/Andreh-Z/netflix-clone",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nextjs-original",
+          "name": "NextJs v15"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "TailwindCSS"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "FireBase"
         }
       ]
     }
