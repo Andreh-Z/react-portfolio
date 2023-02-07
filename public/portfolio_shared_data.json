@@ -34,11 +34,16 @@
         "level": "95"
       },
       {
-        "name": "Angular",
-        "class": "devicon-angularjs-plain",
+        "name": "NextJS",
+        "class": "devicon-nextjs-original",
         "level": "80"
       },
-
+      { "name": "GraphQL", "class": "devicon-graphql-plain", "level": "10" },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "80"
+      },
       {
         "name": "JavaScript",
         "class": "devicon-javascript-plain",
