@@ -112,39 +112,6 @@
       ]
     },
     {
-      "title": "Form-Simil Google",
-      "startDate": "2023",
-      "description": "The registration form is generated from a .json file that contains information about the fields that should be displayed. The information entered in the form is saved in Firebase and is used to load the table component. The form has validations based on the information specified in the .json file. The link provided below will redirect you to the website. If you want to view the repository, you should go to my github profile.",
-      "images": [
-        "images/portfolio/Form-Sim/p1.png",
-        "images/portfolio/Form-Sim/p2.png",
-        "images/portfolio/Form-Sim/p3.png"
-      ],
-      "url": "https://greydive-test.web.app/",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-redux-original",
-          "name": "Redux"
-        },
-        {
-          "class": "devicon-bootstrap-plain",
-          "name": "Bootstrap"
-        },
-        {
-          "class": "devicon-firebase-plain",
-          "name": "FireBase"
-        }
-      ]
-    },
-    {
       "title": "Go-Travel-app",
       "startDate": "2023",
       "description": "Travel-Go is an application developed using React Native, Routing, Native Icons and TailwindCSS. The app is designed for travelers and helps them search for restaurants, attractions, and hotels. With its modern design, the app makes it easy for users to find the information they need for their travels.",
