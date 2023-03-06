@@ -164,6 +164,39 @@
           "name": "FireBase"
         }
       ]
+    },
+    {
+      "title": "e-Learning Platform",
+      "startDate": "2023",
+      "description": "This online learning platform provides an easy way to host, manage, and share learning materials with selected companies and members. Additionally, it allows for the purchase and sale of said material and offers a wide range of editing tools to customize the content. The platform aims to automate the corporate learning process by providing an intuitive and user-friendly site.",
+      "images": [
+        "https://imgur.com/2ye8C8z",
+        "https://imgur.com/qrjNNv3",
+        "https://imgur.com/rk84Kc8"
+      ],
+      "url": "_#",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "TailwindCSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-redux-original",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
     }
   ],
   "experience": [
@@ -184,7 +217,7 @@
     {
       "company": "FreeLance",
       "title": "FreeLance",
-      "years": "20/2020 - Presente",
+      "years": "20/2020 - Present",
       "mainTech": ["ReactJs"],
       "technologies": [
         "React",
@@ -195,6 +228,22 @@
         "ExpressJS",
         "NodeJS",
         "Bootstrap - React-Bootstrap"
+      ]
+    },
+    {
+      "company": "eWaffle",
+      "title": "Full Stack Developer",
+      "years": "Feb. 10 - Present",
+      "mainTech": ["ReactJs"],
+      "technologies": [
+        "React",
+        "Redux",
+        "MongoDB",
+        "JavaScript",
+        "TailwindCSS",
+        "ExpressJS",
+        "NodeJS",
+        "Framer-Motion"
       ]
     }
   ]
